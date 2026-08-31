@@ -32,15 +32,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanraj0611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj0611&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-raj-176426269/">
     <img src="https://img.shields.io/badge/-Aryan%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
